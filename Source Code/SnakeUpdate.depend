@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1652855288 source:e:\codeblock\snakeupdate\main.cpp
+	<iostream>
+	"Renderer.h"
+	"GameEngine.h"
+	"HandleEvent.h"
+	"Setting.h"
+	"Sound.h"
+
+1652261004 e:\codeblock\snakeupdate\gameobject.h
+	<iostream>
+
+1651337502 e:\codeblock\snakeupdate\map.h
+	"GameObject.h"
+	<chrono>
+	<thread>
+
+1652263170 e:\codeblock\snakeupdate\snake.h
+	"GameObject.h"
+	"Power.h"
+	<vector>
+
+1652936220 e:\codeblock\snakeupdate\gameengine.h
+	"GameObject.h"
+	"Map.h"
+	"Snake.h"
+	"Power.h"
+	"Sound.h"
+
+1652936219 source:e:\codeblock\snakeupdate\gameengine.cpp
+	"GameEngine.h"
+	<vector>
+
+1652888808 source:e:\codeblock\snakeupdate\map.cpp
+	"Map.h"
+
+1652868186 source:e:\codeblock\snakeupdate\snake.cpp
+	"Snake.h"
+
+1652856022 e:\codeblock\snakeupdate\power.h
+	"GameObject.h"
+	"Map.h"
+
+1652868428 source:e:\codeblock\snakeupdate\renderer.cpp
+	"Renderer.h"
+	"Setting.h"
+
+1652888808 e:\codeblock\snakeupdate\renderer.h
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"string"
+	"GameEngine.h"
+
+1652075701 e:\codeblock\snakeupdate\snakerenderer.h
+	<string>
+	"SDL.h"
+	"SDL_image.h"
+	"GameEngine.h"
+
+1652076963 source:e:\codeblock\snakeupdate\snakerenderer.cpp
+	"SnakeRenderer.h"
+
+1652157437 source:e:\codeblock\snakeupdate\renderimage.cpp
+	"RenderImage.h"
+
+1652160414 e:\codeblock\snakeupdate\renderimage.h
+	"GameEngine.h"
+	"SDL.h"
+	"SDL_image.h"
+	"string"
+
+1652672674 e:\codeblock\snakeupdate\handleevent.h
+	"SDL.h"
+
+1652936219 source:e:\codeblock\snakeupdate\setting.cpp
+	"Setting.h"
+	<fstream>
+
+1652790864 e:\codeblock\snakeupdate\setting.h
+	"Renderer.h"
+	"HandleEvent.h"
+	"GameEngine.h"
+	"Sound.h"
+
+1652868186 e:\codeblock\snakeupdate\sound.h
+	"SDL_Mixer.h"
+
