@@ -91,4 +91,4 @@
 ## *Lời cuối*
 *Cảm ơn mọi người đã đọc và đánh giá project đầu tiên của em/mình.*
 
-#### **Mức điểm tự đánh giá: 9 - 9,25.**
+#### **Mức điểm tự đánh giá: 9,25 - 9,5.**
