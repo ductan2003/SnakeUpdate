@@ -87,7 +87,7 @@
 * Phân chia, quản lí file và logic game: do giáo viên thực hành hướng dẫn và tự lập trình lại.
 
 ## *Kết luận*
-* Sau quá trình làm game, em rút ra được việc phân chia, quản lí các đối tượng hết sức quan trọng. Việc phân chia tốt sẽ giúp giảm thời gian sửa lỗi và dễ quản lí. Học được thêm về lập trình hướng đối tượng thông qua từng GameObject, ...
+* Sau quá trình làm game, em rút ra được việc phân chia, quản lí các đối tượng hết sức quan trọng. Việc phân chia tốt sẽ giúp giảm thời gian sửa lỗi và dễ quản lí. Học được thêm về lập trình hướng đối tượng thông qua từng GameObject, ... Trong quá trình làm game, em từng không quản lí tốt bộ nhớ sau khi sử dụng con trỏ, dẫn đến việc chức năng restart bị lỗi, tuy nhiên sau khi dọn dẹp, cũng như quản lí lại bộ nhớ để làm chức năng restart giúp em nhận ra thêm về phần quan trnjg trong việc quản lí bộ nhớ khi code.
 * Hướng phát triển: Trong quá trình phát triển thêm chức năng Power cho rắn, em đã tạo một class Power để chứa các chức năng này. Điều này giúp các phiên bản sau, không chỉ có chức năng thả bom mà còn có thể dễ dàng thêm các chức năng mới và cải thiện các chức năng cũ. 
 
 ## *Lời cuối*
