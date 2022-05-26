@@ -76,7 +76,7 @@
 * Sử dụng phân chia file để quản lí từng Game Object.
 
 ### Kĩ thuật khác
-* Tính toán, căn chỉnh vị trí các đối tượng hiển thị.
+* Tính toán, căn chỉnh vị trí các đối tượng hiển thị, bo góc rắn.
 * Phân chia file: Logic game ở một file và SDL ở một file.
 * Tạo menu cùng các chức năng: Restart, Pause, Continue, Mute, Unmute, High Score, Exit, Help.
 * Tối giản hàm main dễ dọc, dễ hiểu.
